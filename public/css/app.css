@@ -11165,11 +11165,12 @@ textarea.form-control-lg {
   body footer .foot3 p:nth-child(2) {
     margin-left: 1%;
   }
-  body footer .foot3 p:nth-child(3) {
-    margin-right: 3%;
-  }
   body .icon {
     width: 50px !important;
+  }
+  body .foot-logo {
+    position: relative;
+    right: 10%;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
@@ -11276,6 +11277,10 @@ textarea.form-control-lg {
   }
   body .icon {
     width: 60px !important;
+  }
+  body .foot-logo {
+    position: relative;
+    left: 30%;
   }
 }
 
