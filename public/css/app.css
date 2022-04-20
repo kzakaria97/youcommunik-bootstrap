@@ -11278,7 +11278,7 @@ textarea.form-control-lg {
   body .icon {
     width: 60px !important;
     position: relative;
-    left: 30%;
+    right: -190%;
   }
 }
 @media screen and (min-width: 320px) and (max-width: 767px) {
