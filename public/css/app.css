@@ -11118,7 +11118,7 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-@media screen and (min-width: 1024px) and (max-width: 1440px) {
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
   body {
     width: 80%;
     margin-left: 9%;
@@ -11167,6 +11167,9 @@ textarea.form-control-lg {
   }
   body footer .foot3 p:nth-child(3) {
     margin-right: 3%;
+  }
+  body .icon {
+    width: 50px !important;
   }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
@@ -11222,6 +11225,57 @@ textarea.form-control-lg {
   }
   body footer .foot3 p:nth-child(3) {
     margin-right: 3%;
+  }
+  body .icon {
+    width: 40px !important;
+  }
+}
+@media screen and (min-width: 1440px) {
+  body {
+    width: 68%;
+    margin-left: 15%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 30px;
+  }
+  body .premier {
+    background-color: rgb(51, 77, 92);
+    color: white;
+  }
+  body section:nth-child(3) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 20%;
+    color: white;
+    margin-left: 40%;
+  }
+  body section:nth-child(4) {
+    background-color: rgb(234, 227, 214);
+  }
+  body section:nth-child(5) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 20%;
+    color: white;
+    margin-left: 40%;
+  }
+  body section:nth-child(6) {
+    background-color: rgb(234, 227, 214);
+  }
+  body section:nth-child(7) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 20%;
+    color: white;
+    margin-left: 40%;
+  }
+  body section:nth-child(8) {
+    background-color: rgb(234, 227, 214);
+  }
+  body footer {
+    background-color: rgb(57, 58, 59);
+    color: white;
+  }
+  body .icon {
+    width: 60px !important;
   }
 }
 
