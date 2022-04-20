@@ -11283,5 +11283,41 @@ textarea.form-control-lg {
     left: 30%;
   }
 }
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  body section:nth-child(3) .titre1 {
+    margin-top: 2rem;
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-left: 35%;
+  }
+  body .premier {
+    background-color: rgb(51, 77, 92);
+    color: white;
+  }
+  body section:nth-child(5) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 35%;
+    color: white;
+    margin-left: 35%;
+  }
+  body section:nth-child(7) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-left: 35%;
+  }
+
+  footer {
+    background-color: rgb(57, 58, 59);
+  }
+
+  .icon {
+    width: 36px;
+  }
+}
 
 /*# sourceMappingURL=app.css.map */
