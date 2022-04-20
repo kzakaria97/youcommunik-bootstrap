@@ -11118,5 +11118,111 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+  body {
+    width: 80%;
+    margin-left: 9%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 30px;
+  }
+  body .premier {
+    background-color: rgb(51, 77, 92);
+    color: white;
+  }
+  body section:nth-child(3) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-left: 35%;
+  }
+  body section:nth-child(4) {
+    background-color: rgb(234, 227, 214);
+  }
+  body section:nth-child(5) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-left: 35%;
+  }
+  body section:nth-child(6) {
+    background-color: rgb(234, 227, 214);
+  }
+  body section:nth-child(7) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-left: 35%;
+  }
+  body section:nth-child(8) {
+    background-color: rgb(234, 227, 214);
+  }
+  body footer {
+    background-color: rgb(57, 58, 59);
+    color: white;
+  }
+  body footer .foot3 p:nth-child(2) {
+    margin-left: 1%;
+  }
+  body footer .foot3 p:nth-child(3) {
+    margin-right: 3%;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  body {
+    width: 80%;
+    margin-left: 9%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 30px;
+  }
+  body .premier {
+    background-color: rgb(51, 77, 92);
+    color: white;
+  }
+  body section:nth-child(3) {
+    margin: 0;
+    padding: 0;
+  }
+  body section:nth-child(3) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-left: 35%;
+  }
+  body section:nth-child(4) {
+    background-color: rgb(234, 227, 214);
+  }
+  body section:nth-child(5) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-left: 35%;
+  }
+  body section:nth-child(6) {
+    background-color: rgb(234, 227, 214);
+  }
+  body section:nth-child(7) .titre1 {
+    background-color: rgb(51, 77, 92);
+    text-align: center;
+    width: 30%;
+    color: white;
+    margin-left: 35%;
+  }
+  body section:nth-child(8) {
+    background-color: rgb(234, 227, 214);
+  }
+  body footer {
+    background-color: rgb(57, 58, 59);
+    color: white;
+  }
+  body footer .foot3 p:nth-child(2) {
+    margin-left: 2%;
+  }
+  body footer .foot3 p:nth-child(3) {
+    margin-right: 3%;
+  }
+}
 
 /*# sourceMappingURL=app.css.map */
